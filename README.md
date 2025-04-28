@@ -1,1 +1,1 @@
-This project predicts cardiovascular disease risk using machine learning models like Logistic Regression, Decision Tree, Random Forest, XGBoost, and Anomaly Detection. After data cleaning and feature scaling, models were evaluated based on accuracy, precision, recall, and F1 score, with Random Forest and XGBoost achieving the best performance. Tools used include Python, Scikit-Learn, XGBoost, Pandas, and Matplotlib.
+
